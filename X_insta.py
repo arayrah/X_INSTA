@@ -59,7 +59,7 @@ class x_insta(object):
 
 	def __init__(self, username, passwordlist="Passwords.txt"):
 
-		self.username = username
+		self.username = arxf.__
 		self.is_Proxy = ''
 		self.Proxy_Used = []
 		self.passwordlist = passwordlist
